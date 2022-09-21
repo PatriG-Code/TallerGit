@@ -1,3 +1,0 @@
-# TallerGit
-
-Git mola
